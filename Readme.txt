@@ -20,6 +20,7 @@
 五、TerrainVisualizatio
     MongoDB+Redis可视化程序
     编译时依赖boost、MongoDB c++ driver、Redis hiredis、osg、osgEarth库
+    命令行参数示例：--db Pyramid --url 192.168.1.101
 
 六、TerrainVisualizatio_Files
     ive文件可视化程序
